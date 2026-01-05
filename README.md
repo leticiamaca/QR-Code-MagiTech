@@ -34,9 +34,9 @@ Simples, rápido e inovador.
 
 > Espaço reservado para screenshots do aplicativo em funcionamento.
 
-![Screenshot do Projeto](./screenshot.png)
+![Screenshot do Projeto](./biblioteca-de-aulas.png)
 
-*(Substitua `screenshot.png` pelo nome da sua imagem)*
+
 
 ---
 

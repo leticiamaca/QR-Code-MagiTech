@@ -93,7 +93,7 @@ Fast, intuitive, and innovative.
 
 > Section reserved for application screenshots.
 
-![Project Screenshot](./)
+![Project Screenshot](./biblioteca-de-aulas.png)
 
 ---
 
